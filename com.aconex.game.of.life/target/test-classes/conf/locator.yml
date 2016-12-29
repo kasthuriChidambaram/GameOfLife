@@ -1,0 +1,4 @@
+Game-of-Life-url : file:///E:/gol/GameOfLife.html
+gol.matrix.size : matrix-size
+gol.row.value : div.gol-grid
+go.button : go-button
